@@ -35,4 +35,4 @@ In the era of Industry 4.0, digital twin technology has emerged as a transformat
 
 ## Author
 - **Abhinav**
-  - Email: [your.email@example.com](mailto:2021uee0125@iitjammu.ac.in)
+  - Email: [2021uee0125@iitjammu.ac.in](mailto:2021uee0125@iitjammu.ac.in)
